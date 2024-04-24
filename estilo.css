@@ -1,0 +1,211 @@
+@font-face
+{
+    font-family: "globo";
+    src: url('fonts/globo.ttf');
+    src: url('fonts/globo.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "neue";
+    src: url('fonts/neue.ttf');
+    src: url('fonts/neue.ttf') format('truetype');
+}
+
+body
+{
+    font-family: "globo";
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+nav ul
+{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+}
+
+nav ul li
+{
+    display: inline;
+    margin-right: 74px;
+}
+
+nav ul li a
+{
+    text-decoration: none;
+}
+
+#globologo
+{
+    text-align: center;
+}
+
+#ad
+{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#campo1
+{
+    border-color: rgb(238, 238, 238);
+    border-style: solid;
+    display: inline;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#campo2
+{
+    border-color: rgb(238, 238, 238);
+    border-style: solid;
+    display: inline;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#a
+{
+    text-decoration: none;
+}
+
+#s1
+{
+    text-align: center;
+    font-family: "neue";
+    padding: 0;
+    margin: 0;
+}
+
+#s1 h1
+{
+    line-height: 48px;
+    color: brown;
+}
+
+section li::marker
+{
+    color: rgb(177, 42, 42);
+}
+
+#tit
+{
+    font-size: 30px;
+    color: rgb(202, 58, 58);
+}
+
+#sasa
+{
+    color: black;
+}
+
+#s2
+{
+    text-align: center;
+    font-family: "neue";
+    padding: 0;
+    margin: 0;
+}
+
+#s2 h1
+{
+    line-height: 48px;
+    color: brown;
+}
+
+#tit2
+{
+    font-size: 30px;
+    color: rgb(58, 202, 113);
+}
+
+#soso
+{
+    color: black;
+}
+
+#a
+{
+    color: brown;
+}
+
+#b
+{
+    color: rgb(23, 23, 192);
+}
+
+#c
+{
+    color: rgb(28, 92, 37);
+}
+
+#d
+{
+    color: rgb(27, 122, 35);
+}
+
+#e
+{
+    color: rgb(255, 154, 22);
+}
+
+#f
+{
+    color: rgb(233, 63, 63);
+}
+
+#g
+{
+    color: rgb(223, 114, 42);
+}
+
+#h
+{
+    color: rgb(106, 51, 255);
+}
+
+#i
+{
+    color: rgb(53, 53, 53);
+}
+
+#j
+{
+    color: rgb(153, 0, 89);
+}
+
+#campo
+{
+    border-color: rgb(238, 238, 238);
+    border-style: solid;
+}
+
+footer
+{
+    background-color: rgb(69, 69, 255);
+    padding-left: 15%;
+}
+
+footer h1
+{
+    padding: 20px;
+    color: aliceblue;
+}
+
+footer section
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-bottom: 20px;
+}
